@@ -1,10 +1,11 @@
 ## Description
   The small sample application that compress the Image file without any noise. It can compress 5MB image to nearby 140 KB.
   
-##ScreenShot
+## ScreenShot
+
   ![ImageCompressor](screenshot/demo_screenshot.jpg)  
   
-##Usage
+## Usage
     
    **For Single File**
 
@@ -27,7 +28,7 @@ CompressApplication.getInstanse()!!.getFileCompress()
             }, { throwable -> throwable.printStackTrace() })
 ```
 
-##License
+## License
 
 ```
 Copyright 2019 Ramkumar-27
